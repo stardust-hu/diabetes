@@ -1,3 +1,5 @@
 doc/
 data/
 code/.ipynb_checkpoints/
+test
+.DS_Store
